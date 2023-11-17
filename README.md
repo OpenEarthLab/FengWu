@@ -25,10 +25,10 @@ pip install -r requirement_gpu.txt
 
 ## Downloading trained models
 
-Fengwu without transfer learning (fengwu_v1.onnx): [Onedrive(https://pjlab-my.sharepoint.cn/:u:/g/personal/chenkang_pjlab_org_cn/EVA6V_Qkp6JHgXwAKxXIzDsBPIddo5RgDtGCBQ-sQbMmwg?e=iG8hQu)]
+Fengwu without transfer learning (fengwu_v1.onnx): [Onedrive(https://pjlab-my.sharepoint.cn/:u:/g/personal/chenkang_pjlab_org_cn/EVA6V_Qkp6JHgXwAKxXIzDsBPIddo5RgDtGCBQ-sQbMmwg)]
 
 
-Fengwu with transfer learning (fengwu_v2.onnx): [Onedrive(https://pjlab-my.sharepoint.cn/:u:/g/personal/chenkang_pjlab_org_cn/EZkFM7nQcEtBve6MsqlWaeIB_lmpa__hX0I8QYOPzf-X6A?e=g19BLk)]
+Fengwu with transfer learning (fengwu_v2.onnx): [Onedrive(https://pjlab-my.sharepoint.cn/:u:/g/personal/chenkang_pjlab_org_cn/EZkFM7nQcEtBve6MsqlWaeIB_lmpa__hX0I8QYOPzf-X6A)]
 
 
 ## Data Format
