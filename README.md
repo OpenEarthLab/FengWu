@@ -1,4 +1,4 @@
-# FengWu: PUSHING SKILLFUL GLOBAL MEDIUM-RANGE WEATHER FORECAST BEYOND 10 DAYS LEAD
+# FengWu: Pushing Skillful Global Weather Forecasts beyond 10 Days Lead
 
 Paper: https://arxiv.org/abs/2304.02948
 
