@@ -1,6 +1,7 @@
 # FengWu: Pushing Skillful Global Weather Forecasts beyond 10 Days Lead
 
-Paper: https://arxiv.org/abs/2304.02948
+This repository presents the inference code and pre-trained model of FengWu, a deep learning-based weather forecasting model that pushes the skillful global weather forecasts beyond 10 days lead. The original version of FengWu has 37 vertical levels. To make it easier for real-time evaluation with operational analysis data, the pre-trained model released here accepts 13 vertical levels.   
+If you are interested in the technique details, please refer to the arxiv version: https://arxiv.org/abs/2304.02948. 
 
 ## Requirements
 
