@@ -40,3 +40,5 @@ The model takes two consecutive six-hour data frames as input. input1.npy repres
 
 The data is organized in the following order: Each individual data has a shape of 69x721x1440, where 69 represents 69 atmospheric features. The  latitude range is the [90N, 90S], and the longitude range is [0, 360]. The first four variables are surface variables in the order of ['u10', 'v10', 't2m', 'msl'], followed by non-surface variables in the order of ['z', 'q', 'u', 'v', 't']. Each data has 13 levels, which are ordered as [50, 100, 150, 200, 250, 300, 400, 500, 600, 700, 850, 925, 1000]. Therefore, the order of the 69 variables is [u10, v10, t2m, msl, z50, z100, ..., z1000, q50, q100, ..., q1000, t50, t100, ..., t1000].
 
+Data instance download address： (data): [https://drive.google.com/drive/folders/11i_l-mEQ7K5OcfbZd9jeBpfr_BGen9M0?usp=drive_link]
+
