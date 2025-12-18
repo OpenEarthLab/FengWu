@@ -44,6 +44,6 @@ Data instance download address： (data): [https://drive.google.com/drive/folder
 
 <h1 style="color: red; font-weight: 900; font-size: 40px; border: 3px solid red; padding: 20px; text-align: center;">
     ⚠️ ATTENTION ⚠️<br><br>
-    Use <code>fengwu_v1</code> for ERA5 evaluation.<br>
-    Use <code>fengwu_v2</code> for Operational Analysis data evaluation.
+    Use <code>fengwu_v1</code> for ERA5 evaluation.  fengwu_v1.onnx模型仅用于ERA5数据集评估<br>
+    Use <code>fengwu_v2</code> for Operational Analysis data evaluation.  fengwu_v2.onnx模型仅用于实时预报Operational Analysis数据集评估
 </h1>
