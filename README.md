@@ -42,6 +42,8 @@ The data is organized in the following order: Each individual data has a shape o
 
 Data instance download address： (data): [https://drive.google.com/drive/folders/11i_l-mEQ7K5OcfbZd9jeBpfr_BGen9M0?usp=drive_link]
 
-<span style="color: red; font-weight: bold; font-size: 1.5em;">
-⚠️ IMPORTANT: Use <code>fengwu_v1</code> for ERA5 evaluation; Use <code>fengwu_v2</code> for Operational Analysis data evaluation.
-</span>
+<h1 style="color: red; font-weight: 900; font-size: 40px; border: 3px solid red; padding: 20px; text-align: center;">
+    ⚠️ ATTENTION ⚠️<br><br>
+    Use <code>fengwu_v1</code> for ERA5 evaluation.<br>
+    Use <code>fengwu_v2</code> for Operational Analysis data evaluation.
+</h1>
